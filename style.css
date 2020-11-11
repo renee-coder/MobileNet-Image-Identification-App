@@ -1,0 +1,37 @@
+body{
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: rgb(121, 218, 235);
+
+}
+.header_div{
+    background: rgb(255, 255, 255);
+    color: rgb(220, 20, 127);
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: rgb(150, 223, 236);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 10px 10px 5px gray;
+}
+#camera{
+    border:2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 10px 10px 5px gray;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 10px 10px 5px gray;
+    border:1px solid;
+}
