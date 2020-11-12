@@ -23,7 +23,7 @@ body{
     margin-bottom: 0px;
     box-shadow: 10px 10px 5px gray;
 }
-#camera{
+#camera,#result{
     border:2px solid white;
     width: 310px;
     height: 300px;
@@ -34,4 +34,27 @@ body{
     font-size: 16px;
     box-shadow: 10px 10px 5px gray;
     border:1px solid;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 10px 10px 5px gray;
+}
+.footer_div img{
+    width: 70px;
+    margin-right: 600px;
+    margin-bottom: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(168, 61, 136);
+    line-height: 3;
+    text-align: center;
 }
